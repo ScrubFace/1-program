@@ -18,6 +18,13 @@
 
 ## About
 
-1 program is one prime number program, in many different programming languages.
-It was written in Python, Java, C++, C, C#, Go, Swift, Obj-C and many more.
+1 program is one prime number program, in 7 different programming languages.
+It was written in Python, Java, C++, C, C#, Go and Swift.
 This is just to show how one program is translated differently in different langauges.
+Also to show which programs require less lines to have the same outcome.
+
+## Instructions
+
+You can download the files if you have a compiler that compiles the languages you want to try out and see.
+You can also just copy and paste the code into an online compiler such as the TutorialsPoint compilers.
+Have Fun and edit the programs the way you want!
